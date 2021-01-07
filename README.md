@@ -9,7 +9,8 @@ Furthermore, the analysis sheds light on the active periods of time in criminali
 
 **Distribution of crime by district in the San Francisco city:**
 
-<img align="left" width="600" height="600" src="Images/San Francisco Crime Map.png.jpg"> 
+<img align="left" width="600" height="600" src="https://github.com/muratko357/San-Francisco-Crime-Data-Analysis/blob/main/Images/San%20Francisco%20Crime%20Map.png"> 
 
 
-<img align="left" width="900" height="600" src="Images/Categories of crime by district chart.png.jpg">
+
+<img align="left" width="900" height="600" src="https://github.com/muratko357/San-Francisco-Crime-Data-Analysis/blob/main/Images/Categories%20of%20crime%20by%20district%20chart.png">
