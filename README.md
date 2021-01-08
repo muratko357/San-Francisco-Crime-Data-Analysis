@@ -5,7 +5,7 @@ This is an exploratory data analysis and uses data visualization tools, crosstab
 
 Furthermore, the analysis sheds light on the active periods of time in criminality. For instance, among days of week, Fridays used to be very actief than other days, while Sundays were calmer. And the distribution of crime reports over a day displays that time matters.  
 
-**[Link to view](https://nbviewer.jupyter.org/github/muratko357/San-Francisco-Crime-Data-Analysis/blob/main/san%20francisco%20crime%20data%20analysis.ipynb)**
+**[Link to view at nbviewer](https://nbviewer.jupyter.org/github/muratko357/San-Francisco-Crime-Data-Analysis/blob/main/san%20francisco%20crime%20data%20analysis.ipynb)**
 
 **Distribution of crime by district in the San Francisco city:**
 
@@ -13,4 +13,4 @@ Furthermore, the analysis sheds light on the active periods of time in criminali
 
 
 
-<img align="left" width="1400" height="600" src="https://github.com/muratko357/San-Francisco-Crime-Data-Analysis/blob/main/Images/Categories%20of%20crime%20by%20district%20chart.png">
+<img align="left" width="1200" height="600" src="https://github.com/muratko357/San-Francisco-Crime-Data-Analysis/blob/main/Images/Categories%20of%20crime%20by%20district%20chart.png">
